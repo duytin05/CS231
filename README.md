@@ -1,6 +1,6 @@
 # CS231 - Nhập môn Thị giác máy tính (Computer Vision)
 
-**Đồ án: Hệ thống Nhận diện một số loại Nông sản Tự động **
+**Đồ án: Hệ thống Nhận diện một số loại Nông sản Tự động**
 
 ---
 
